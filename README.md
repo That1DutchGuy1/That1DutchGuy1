@@ -1,5 +1,16 @@
+![Meme Banner](meme-banner.svg)
+
 <p align="center" width="100%">
 <img src="readme-img.png" alt="Memes" width="640px" height="320px" />
 </p>
 
 <h2 align="center">MAH BOI, THIS PROFILE IS WHAT ALL TRUE WARRIORS STRIVE FOR!</h2>
+
+<p align="center" width="100%">
+List Of Currently Harkinian Approved Projects:
+</p>
+
+<div>
+  <p align="center" width="100%"> <a href="https://github.com/That1DutchGuy1/thatonedutchguys-shit-ass-toybox">That One Dutch Guy's Shit Ass Toybox</a> </p>
+  <p align="center" width="100%"> <a href="https://github.com/That1DutchGuy1/thatonedutchguys-shit-ass-toybox">That One Dutch Guy's DVD-R ISO HANGAR</a> </p>
+</div>

@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" width="100%">
   <defs>
-    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Your ultimate meme rainbow gradient -->
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#ff0000" />
       <stop offset="17%" stop-color="#ffa500" />
       <stop offset="33%" stop-color="#ffff00" />
@@ -11,22 +12,48 @@
     </linearGradient>
   </defs>
 
-  <!-- CSS styling injection overrides GitHub Camo asset filters -->
   <style>
-    rect {
-      fill: url(#rainbow);
+    .bg { fill: url(#rainbow); }
+    .meme-text {
+      font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
+      font-weight: bold;
+      fill: black;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+    .link-text {
+      font-family: 'Comic Sans MS', 'Comic Sans', cursive, sans-serif;
+      font-size: 24px;
+      fill: #0000ee;
+      text-decoration: underline;
+      text-anchor: middle;
+    }
+    .link-text:hover {
+      fill: #551a8b;
     }
   </style>
 
-  <rect width="100%" height="100%" />
+  <!-- Full Canvas Background -->
+  <rect class="bg" width="100%" height="100%" />
 
-  <text x="50%" y="55%" 
-        font-family="'Comic Sans MS', 'Comic Sans', cursive" 
-        font-size="48" 
-        font-weight="bold" 
-        fill="black" 
-        text-anchor="middle" 
-        dominant-baseline="middle">
-    MUCH README. VERY GRADIENT.
-  </text>
+  <!-- Top Banner Header -->
+  <text x="50%" y="100" class="meme-text" font-size="52">MUCH README. VERY GRADIENT.</text>
+
+  <!-- Embedded Meme Image Grid Layer -->
+  <!-- Note: Update the href path to point directly to your raw image if it sits in your repo -->
+  <image href="readme-img.png" x="150" y="200" width="640" height="320" />
+
+  <!-- Mid-Page Proclamation -->
+  <text x="50%" y="720" class="meme-text" font-size="32">MAH BOI, THIS PROFILE IS WHAT ALL TRUE WARRIORS STRIVE FOR!</text>
+  
+  <text x="50%" y="800" class="meme-text" font-size="24" fill="#222">List Of Currently Harkinian Approved Projects:</text>
+
+  <!-- Interactive Project Vector Hyperlinks -->
+  <a href="https://github.com/That1DutchGuy1/thatonedutchguys-shit-ass-toybox" target="_blank">
+    <text x="50%" y="870" class="link-text">That One Dutch Guy's Shit Ass Toybox</text>
+  </a>
+
+  <a href="https://github.com/That1DutchGuy1/That-One-Dutch-Guys-DVD-R-ISO-Hangar" target="_blank">
+    <text x="50%" y="930" class="link-text">That One Dutch Guy's DVD-R ISO HANGAR</text>
+  </a>
 </svg>

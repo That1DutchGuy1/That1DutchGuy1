@@ -2,7 +2,4 @@
 <img src="readme-img.png" alt="Memes" width="640px" height="320px" />
 </p>
 
-<p align="center">
-<b>YO FUCKERS!!</b>
-</p>
-It's your boi, That One Dutch Guy!
+<h2 align="center">MAH BOI, THIS PROFILE IS WHAT ALL TRUE WARRIORS STRIVE FOR!</h2>

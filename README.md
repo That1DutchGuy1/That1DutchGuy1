@@ -1,4 +1,4 @@
-![Meme Banner]([meme-banner.svg](https://raw.githubusercontent.com/That1DutchGuy1/That1DutchGuy1/refs/heads/main/meme-banner.svg))
+![Meme Banner](meme-banner.svg)
 
 <p align="center" width="100%">
 <img src="readme-img.png" alt="Memes" width="640px" height="320px" />

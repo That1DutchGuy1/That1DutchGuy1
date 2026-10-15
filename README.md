@@ -5,5 +5,5 @@
 <h2 align="center">MAH BOI, THIS PROFILE IS WHAT ALL TRUE WARRIORS STRIVE FOR!</h2>
 
 <h3 align="center" width="100%">
-Check Out The Currently Harkinian Approved Projects Below!
+CHECK OUT THE CURRENTLY HARKINIAN APPROVED PROJECTS BELOW!
 </h3>

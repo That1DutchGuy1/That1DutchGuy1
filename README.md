@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="Bliss-With-Memes.png" alt="Memes" width="1280px" height="720px" />
+<img src="readme-img.png" alt="Memes" width="1280px" height="640px" />
 </p>
 
 # YO FUCKERS!!

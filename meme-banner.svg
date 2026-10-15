@@ -1,6 +1,5 @@
-<svg xmlns="http://w3.org" viewBox="0 0 800 200" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%">
   <defs>
-    <!-- The ultimate meme rainbow gradient -->
     <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ff0000" />
       <stop offset="17%" stop-color="#ffa500" />
@@ -12,10 +11,15 @@
     </linearGradient>
   </defs>
 
-  <!-- Background color block -->
-  <rect width="100%" height="100%" fill="url(#rainbow)" />
+  <!-- CSS styling injection overrides GitHub Camo asset filters -->
+  <style>
+    rect {
+      fill: url(#rainbow);
+    }
+  </style>
 
-  <!-- The legendary Comic Sans font -->
+  <rect width="100%" height="100%" />
+
   <text x="50%" y="55%" 
         font-family="'Comic Sans MS', 'Comic Sans', cursive" 
         font-size="48" 

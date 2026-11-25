@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/62fddf0fde45a8baedcc7ee5_847541504914fd33810e70a0ea73177e%20(2)-1.png" width="32" height="32" valign="middle" alt="Discord Icon Left">
   &nbsp;&nbsp;
-  <a href="https://discord.gg/PCGhgeF9mq">Join my Discord server for more crazy shit!</a>
+  <a href="https://discord.gg/9sJ97nPFC7" target="_blank">Join my Discord server for more crazy shit!</a>
   &nbsp;&nbsp;
   <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/62fddf0fde45a8baedcc7ee5_847541504914fd33810e70a0ea73177e%20(2)-1.png" width="32" height="32" valign="middle" alt="Discord Icon Right">
 </p>
